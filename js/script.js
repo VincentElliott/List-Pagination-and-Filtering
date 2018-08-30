@@ -3,8 +3,6 @@ Treehouse Techdegree:
 FSJS project 2 - List Filter and Pagination
 ******************************************/
 
-console.log('Script started');
-
 // Add variables that store DOM elements you will need to reference and/or manipulate
 const page = document.querySelector('.page');
 const students = document.getElementsByClassName('student-item cf');
